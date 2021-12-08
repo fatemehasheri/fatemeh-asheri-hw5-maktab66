@@ -1,0 +1,45 @@
+body {
+    border-top: rgb(5, 197, 5) 15px solid;
+}
+#stor{
+    float: left;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 12px;
+    margin-left: 50px;
+    color: white;
+    border: 1px solid rgb(5, 197, 5);
+    border-radius: 50px;
+    background-color:rgb(5, 197, 5);
+}
+span p{
+    margin-right: 40px;
+    border-radius: 25px;
+    border: 1px solid #00000000;
+}
+.hover:hover{
+   color: white;
+   background-color: rgb(12, 192, 12);
+   border-radius: 55px;
+}
+#imglogo{
+    margin-left: 10;
+    direction: rtl;
+}
+p{
+    display: inline-block;
+}
+#one{
+    margin:auto;
+    text-align: center;
+}
+.img{
+    background-color: rgb(255, 157, 0);
+    background-size: contain;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 50px;
+    
+}
